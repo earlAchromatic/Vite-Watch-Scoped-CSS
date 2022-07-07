@@ -1,0 +1,17 @@
+{
+  "name": "vite-watch-scoped-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "play": "vite playground",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.13"
+  }
+}
